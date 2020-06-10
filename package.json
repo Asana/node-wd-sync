@@ -20,7 +20,7 @@
     "test": "cake test"
   },
   "dependencies": {
-    "make-sync": "git://github.com/dnice-asana/node-make-sync.git#master",
+    "make-sync": "git://github.com/asana/node-make-sync.git#master",
     "fibers": "^5.0.0",
     "wd": "~0.2.7",
     "lodash": "~2.2.1"
